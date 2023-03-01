@@ -6,7 +6,6 @@ To-Do List App with Node.js, Express.js &amp; Mongodb: Applied create, read, del
 1. clone repo
 2. run the terminal and go to the code folder
 3. execute ``` npm install ```
-5. create a database using mongoDB
 6. run code ``` node app.js ```
 
 
