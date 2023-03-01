@@ -7,7 +7,7 @@ To-Do List App with Node.js, Express.js &amp; Mongodb: Applied create, read, del
 2. run the terminal and go to the code folder
 3. execute ``` npm install ```
 5. run code ``` node app.js ```
-Enjoy!
+
 
 Note: the databse is already deployed on Mongo Atlas.
 
